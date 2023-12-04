@@ -23,5 +23,5 @@ Enthusiast in the field of Data Science, authored a scientific paper on NLP, con
 
 
 ## Contact
-- Telegeram @igorexy 
+- Telegeram [@igorexy ](https://t.me/Igorexy)
 - Email igorexy0@gmail.com
