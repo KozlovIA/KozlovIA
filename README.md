@@ -1,4 +1,4 @@
-# Hello, I'm Igor
+# Hello, I'm Igor! ❣
 I'm Data Scientist and Python programmer
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
