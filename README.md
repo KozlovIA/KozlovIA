@@ -11,7 +11,7 @@ I'm Data Scientist and Python programmer
 ![Matlab](https://img.shields.io/badge/Matlab-R2020a%2B-purple)
 
 ## About me
-Master of Science "Management in Technical Systems", in National Research Uni​versity "Moscow Power Engineering Institute".
+Master's degree of "Management in Technical Systems", in National Research Uni​versity "Moscow Power Engineering Institute".
 Enthusiast in the field of Data Science, authored a scientific paper on NLP, continuing to advance and enjoy new technologies.
 
 
